@@ -1,3 +1,5 @@
+We changed websites! We live here now: https://epl.ece.pdx.edu/
+
 ---
 layout: base
 title: Portland State University Electronics Prototyping Lab
